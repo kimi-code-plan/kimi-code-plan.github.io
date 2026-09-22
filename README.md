@@ -19,3 +19,5 @@ Buy into this if you want one subscription that follows you from a desktop app t
 ---
 
 *This is an independent page written by a third party; it is not operated by or affiliated with Moonshot AI or Kimi, and all trademarks belong to their respective owners.*
+
+_Last reviewed: 2026-09-22_
